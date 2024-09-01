@@ -1,6 +1,7 @@
 #include <<stdlib.h>
 #include <time.h>
+#include "random.h"
 
 char randchar(){
-  return 'A' + (random()%26);
+  return 'A' + (rand()%26);
 }
