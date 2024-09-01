@@ -1,6 +1,10 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
+<<<<<<< Updated upstream
+=======
+#include "random.h"
+>>>>>>> Stashed changes
 
 
 int main()
@@ -16,4 +20,8 @@ int main()
 	putchar('\n');
 
 	return(0);
+<<<<<<< Updated upstream
 }
+=======
+}
+>>>>>>> Stashed changes
